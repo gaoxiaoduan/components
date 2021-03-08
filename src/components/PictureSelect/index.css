@@ -1,0 +1,11 @@
+.wrap{
+    position: relative;
+}
+.checkbox{
+    position: absolute;
+    top: 0;
+    left: 4px;
+}
+.CheckBoxAll{
+    padding: 5px;
+}
